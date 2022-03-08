@@ -1,0 +1,21 @@
+
+apellidos
+nombres
+dni /carnet extranjeria
+fecha de nacimiento
+direccion
+ciudad de residencia
+institucion
+posicion actual/cargo que desempeña
+fecha de inicio en el cargo
+foto
+cv actualizado
+
+
+cargo->
+hacer otro campo ciudad
+dni 
+fecha nacimiento
+posicion actual
+
+ 
